@@ -1,3 +1,3 @@
-export const Img = (props) => {
+export const Img2 = (props) => {
     return <img className = "img" src={props.src}  />
 };
